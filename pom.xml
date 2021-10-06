@@ -14,7 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
-  <dependencies>
+
   
   <build>
 		<plugins>
@@ -41,7 +41,7 @@
 		</plugins>
 	
 	</build>
-
+  <dependencies>
   
     <dependency>
       <groupId>junit</groupId>
